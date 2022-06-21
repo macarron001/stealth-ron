@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     stealth (2.0.0.beta5)
-      activesupport (~> 6.0)
+      activesupport (~> 7.0.3)
       multi_json (~> 1.12)
       puma (>= 4.2, < 6.0)
       sidekiq (~> 6.0)
@@ -12,7 +12,7 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (6.1.5)
+    activesupport (7.0.3)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
